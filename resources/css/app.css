@@ -71,7 +71,7 @@ select:focus[data-flux-control] {
     margin-right: auto;
     padding-left: 1rem;
     padding-right: 1rem;
-    width: 80%;
+    width: 85%;
 }
 /* \[:where(&)\]:size-4 {
     @apply size-4;

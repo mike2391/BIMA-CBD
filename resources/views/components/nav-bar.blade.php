@@ -5,7 +5,7 @@
                 <div class="flex flex-wrap w-full items-center justify-between">
                     <div class="lg:w-1/6 md:w-1/2 w-2/5">
                         <a class="navbar-brand" href="">
-                            <img src="./img/freshcart-logo.svg" />
+                            <img class="h-[50px]" src="img/Logo BIMA_20250924.png" />
                         </a>
                     </div>
                     <div class="lg:w-2/5 hidden lg:block">

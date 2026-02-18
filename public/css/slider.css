@@ -12,7 +12,7 @@
     padding: 20px;
     /* border-radius: 10px; */
     width: 100%; /* Ensures container uses the full width of the parent */
-    max-width: 1200px; /* Adjust the maximum width to hold more cards */
+    /* max-width: 1200px; Adjust the maximum width to hold more cards */
     /* Hide the scrollbar */
     scrollbar-width: none; /* Firefox */
     -ms-overflow-style: none; /* IE and Edge */
